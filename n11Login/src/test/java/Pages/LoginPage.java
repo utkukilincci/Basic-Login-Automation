@@ -11,8 +11,8 @@ public class LoginPage extends BasePage {
     }
 
     public LoginPage login(){
-        String username = "utku.kilincci01@gmail.com";
-        String password = "0556244uk";
+        String username = "validUserName";
+        String password = "validPassword";
         String accName = "utku kılınçcı";
         /**
          * Aşağıdaki kod,
